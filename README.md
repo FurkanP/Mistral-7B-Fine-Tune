@@ -1,17 +1,6 @@
 Mistral 7B Fine-Tuning with LoRA and Quantization
 This repository demonstrates how to fine-tune the Mistral 7B model using LoRA (Low-Rank Adaptation) and quantization techniques to optimize model size and efficiency. The goal is to fine-tune the model for instruction-based learning using the databricks-dolly-15k dataset while employing memory-efficient techniques for large language models.
 
-Table of Contents
-Installation
-Usage
-Model Fine-Tuning Process
-Quantization
-LoRA Fine-Tuning
-Training Arguments
-Model Deployment
-Contributing
-License
-Installation
 Before you begin, ensure you have the following installed:
 
 Python 3.8+
